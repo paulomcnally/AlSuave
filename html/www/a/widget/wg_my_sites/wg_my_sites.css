@@ -1,0 +1,48 @@
+.wg_my_sites_container {
+	width:100%;
+	position:relative;
+	overflow:hidden;
+}
+.wg_my_sites_status, .wg_my_sites_name {
+	float:left;
+	margin-left:5px;
+	padding:0 10px;
+}
+.wg_my_sites_status{padding-top:7px;}
+.wg_my_sites_name span{font-size:9px;}
+
+.wg_my_sites_delete, .wg_my_sites_edit {
+	float:right;
+	margin-right:5px;
+	padding:0 10px;
+}
+
+.wg_my_sites_buttom_main {
+	margin:20px 10px 0 0;
+	text-align:right;
+}
+
+.wg_my_sites_container_add {
+	margin:10px;
+	padding:10px;
+	border:1px solid #CCC;
+	display:none;
+	overflow:hidden;
+}
+.wg_my_sites_container_add div {
+	float:left;
+	width:250px;
+}
+.wg_my_sites_container_add input {
+	width:200px;
+}
+.wg_my_sites_container_add div h3 {
+	font-size:14px;
+	margin:0;
+	padding:0;
+	font-weight:bold;
+}
+
+.wg_my_sites_buttom_main #addNew {
+	display:none;
+}

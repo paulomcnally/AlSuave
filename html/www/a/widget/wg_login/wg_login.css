@@ -1,0 +1,27 @@
+.wg_login_container {
+	width:400px;
+	height:300px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	border:1px solid #33F;
+	position:relative;
+	overflow:hidden;
+}
+.wg_login_input {
+	width:300px;
+	margin:0 50px 10px 50px;
+}
+.wg_login_height {
+	margin-top:110px;
+}
+.wg_login_input_text {
+	width:100%;
+	border:1px solid #09F;
+}
+.wg_login_input_text:focus {
+	border:1px solid #066;
+}
+.wg_login_input_right {
+	text-align:right;
+}

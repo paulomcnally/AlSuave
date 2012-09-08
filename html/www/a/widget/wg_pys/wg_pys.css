@@ -1,0 +1,113 @@
+.wg_pys_user_text {
+	color:#999;
+	font-weight:bold;
+}
+.wg_pys_div {
+	padding:0 10px 0 10px;
+}
+.wg_pys_total_comments {
+	background:url(../../img/comments.gif);
+	width:24px;
+	height:24px;
+	float:left;
+	text-align:center;
+	color:#FFF;
+	line-height:17px;
+	font-weight:bold;
+	margin-right:10px;
+}
+.wg_pys_navigator {
+	padding:10px;
+	border:1px solid #999;
+}
+
+.wg_pys_title {
+	padding:10px;
+	text-align:center;
+	font-size:14px;
+	color:#00F;
+	font-weight:bold;
+	margin:10px auto 0 auto;
+	border:1px solid #CCC;
+	background:#F4F4F4;
+	width:600px;
+	border-bottom:0;
+}
+.wg_pys_info {
+	font-size:10px;
+	color:#09F;
+	height:24px;
+	line-height:24px;
+	text-align:left;
+	margin:0 10px 0 10px;
+}
+.wg_pys_text {
+	text-align:justify;
+	font-size:12px;
+	padding:10px;
+	margin:0 auto 0 auto;
+	border:1px solid #CCC;
+	background:#F4F4F4;
+	width:600px;
+	border-top:0;
+}
+.wg_pys_text div {
+	margin:0 10px 0 10px;
+}
+.wg_pys_calendar, .wg_pys_user, .wg_pys_add, .wg_pys_delete, .wg_pys_report, .wg_pys_visits {
+	width:24px;
+	height:24px;
+	margin-right:5px;
+	float:left;
+}
+.wg_pys_calendar { background:url(../../img/calendar.gif); }
+.wg_pys_user { background:url(../../img/user.gif); }
+.wg_pys_add { background:url(../../img/add.gif); }
+.wg_pys_delete { background:url(../../img/delete.gif); }
+.wg_pys_report { background:url(../../img/report.gif); }
+.wg_pys_visits { background:url(../../img/stats.gif); }
+.wg_pys_add_span a { color:#390; }
+.wg_pys_right { float:right; }
+
+.wg_pys_info_div {
+	float:left;
+	padding-right:15px;
+}
+.wg_pys_separator_top {
+	border-bottom:1px solid #CCC;
+	margin:10px;
+}
+/* Comentarios */
+.wg_pys_comments_container {
+	margin:10px auto 10px auto;
+	width:600px;
+	padding:10px;
+	border:1px solid #CCC;
+	background:#F4F4F4;
+	position:relative;
+	overflow:hidden;
+}
+.wg_pys_comments_avantar {
+	float:left;
+	width:70px;
+}
+.wg_pys_comments_content {
+	float:right;
+	width:510px;
+}
+.wg_pys_comments_content_text {
+	margin:10px;
+}
+#textarea_comments {
+	width:590px;
+	height:100px;
+}
+#add_comments {
+	width:120px;
+	height:40px;
+}
+
+div.growlUI { background:url(../../img/check.gif) no-repeat 10px 10px }
+div.growlUI h1, div.growlUI h2 {
+	color: white; padding: 5px 5px 5px 75px; text-align: left
+}

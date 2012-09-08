@@ -1,0 +1,15 @@
+.wg_locked_container {
+	width:100%;
+	position:relative;
+	overflow:hidden;
+}
+
+.wg_locked_td {
+	float:left;
+	width:100px;
+	margin:0 10px;
+}
+
+.wg_locked_td input {
+	width:90px;
+}

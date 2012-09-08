@@ -1,0 +1,9 @@
+<?php
+include("php/load.php");
+wg_header("Administracion");
+wg_main();
+wg_admin_user_list(1);
+wg_admin_click();
+user_counter();
+wg_footer();
+?>

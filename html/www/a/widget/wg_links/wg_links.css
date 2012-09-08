@@ -1,0 +1,9 @@
+.wg_links_name, .wg_links_title, .wg_links_url, .wg_links_edit {
+	font-size:10px;
+	font-weight:bold;
+	float:left;
+	margin-left:10px;
+}
+.wg_links_name { color:#36F; width:100px; }
+.wg_links_title { color:#090;width:200px;  }
+.wg_links_edit { color:#F03;width:100px;  }

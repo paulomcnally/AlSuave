@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /mcnallydevelopers.com/alsuave.info/
+RewriteRule ^([a-zA-Z0-9]{5})$ /a/widget/wg_short/wg_short_redirect.php?c=$1
+RewriteRule ^remote/ /a/widget/wg_short/wg_short.php
+RewriteRule ^go/ /a/widget/wg_short/wg_redirect.php [L]
